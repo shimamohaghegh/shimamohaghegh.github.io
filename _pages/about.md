@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the University of Kansas.
+I am a graduate student at the [University of Kansas](https://ku.edu/), where I serve as a Graduate Teaching Assistant for EECS 212, Circuits II.
 
-I received my M.S. degree from [Middle East Technical University (METU) / Orta Doğu Teknik Üniversitesi (ODTÜ)](https://www.linkedin.com/school/orta-dogu-teknik-universitesi/), where I worked under the supervision of Dr. Ali Muhtaroğlu. My master's research focused on low-power, area-efficient finite field multiplier architectures based on irreducible all-one polynomials (AOPs).
+I received my M.S. degree from [Middle East Technical University (METU) / Orta Doğu Teknik Üniversitesi (ODTÜ)](https://www.metu.edu.tr/) in Turkey, where I worked under the supervision of [Professor Ali Muhtaroğlu](https://www.oslomet.no/en/about/employee/alimuhta/). My master's research focused on low-power, area-efficient finite field multiplier architectures based on irreducible all-one polynomials (AOPs).
 
 Research Interests
 ======
 * High-performance computing (HPC)
 * Energy-efficient circuits and VLSI design
-* Hardware architectures for finite field arithmetic and cryptography
+* Hardware architectures for finite field arithmetic
 * Machine learning for engineering design
 
 Selected Publications
