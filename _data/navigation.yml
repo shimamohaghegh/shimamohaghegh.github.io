@@ -6,3 +6,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Services & Skills"
+    url: /services/
+
+  - title: "Coursework"
+    url: /coursework/
