@@ -6,74 +6,35 @@ author_profile: true
 ---
 
 <style>
-.tw-list { list-style: none; padding: 0; margin: 0 0 2.2em 0; }
-.tw-list li { padding: 0.9em 0; margin: 0; border-bottom: 1px solid #eee; }
-.tw-course { font-weight: 700; }
-.tw-role { display: block; color: #444; font-size: 0.95em; margin-top: 0.15em; }
-.tw-where { display: block; font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 0.82em; color: #7a7a7a; margin-top: 0.15em; }
-.tw-duties { margin-top: 0.5em; }
+.tw-uni { margin-bottom: 0.1em; }
+.tw-role { color: #7a7a7a; font-size: 0.9em; margin-top: 0; margin-bottom: 0.9em; }
+.tw-list { list-style: none; padding: 0; margin: 0 0 2em 0; }
+.tw-list li { display: flex; gap: 1.5em; padding: 0.5em 0; margin: 0; border-bottom: 1px solid #eee; }
+.tw-code { flex: 0 0 6em; font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 0.85em; color: #7a7a7a; padding-top: 0.15em; white-space: nowrap; }
+.tw-course { flex: 1; }
+.tw-note { color: #7a7a7a; font-size: 0.85em; }
+@media (max-width: 600px) {
+  .tw-list li { flex-direction: column; gap: 0.1em; }
+  .tw-code { flex: none; }
+}
 </style>
 
-<h2><a href="https://ku.edu/">University of Kansas (KU)</a></h2>
+<h2 class="tw-uni"><a href="https://ku.edu/">University of Kansas</a></h2>
+<p class="tw-role">Graduate Teaching Assistant</p>
+
 <ul class="tw-list">
-  <li>
-    <span class="tw-course">Circuits II</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">KU · EECS 212</span>
-  </li>
-  <li>
-    <span class="tw-course">Dynamics</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">KU · ME 320</span>
-  </li>
-  <li>
-    <span class="tw-course">Dynamics Simulations</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">KU · ME 321</span>
-  </li>
-  <li>
-    <span class="tw-course">Statics &amp; Introduction to Mechanics</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">KU · ME 211</span>
-  </li>
-  <li>
-    <span class="tw-course">Science of Materials</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">KU · ME 306</span>
-  </li>
+  <li><span class="tw-code">EECS 212</span><span class="tw-course">Circuits II</span></li>
+  <li><span class="tw-code">ME 320/321</span><span class="tw-course">Dynamics / Dynamics Simulations</span></li>
+  <li><span class="tw-code">ME 211</span><span class="tw-course">Statics &amp; Introduction to Mechanics</span></li>
 </ul>
 
-<ul class="tw-duties">
-  <li>Assisted students with analog and RF filter design, schematic review, and PCB layout and debugging.</li>
-  <li>Led seminar discussions, facilitated in-class exercises and group work, conducted exam review sessions, and assisted with laboratory experiments.</li>
-  <li>Instructed students in MSC Adams and supported the development of their dynamic system modeling skills.</li>
-</ul>
+<h2 class="tw-uni"><a href="https://www.metu.edu.tr/">Middle East Technical University</a></h2>
+<p class="tw-role">Graduate Teaching Assistant</p>
 
-<h2><a href="https://www.metu.edu.tr/">Middle East Technical University (METU)</a></h2>
 <ul class="tw-list">
-  <li>
-    <span class="tw-course">Logic Design</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">METU · EEE 248</span>
-  </li>
-  <li>
-    <span class="tw-course">Introduction to Microprocessors</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">METU · EEE 347</span>
-  </li>
-  <li>
-    <span class="tw-course">Signals and Systems I</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">METU · EEE 301</span>
-  </li>
-  <li>
-    <span class="tw-course">Circuit Theory I</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">METU · EEE 201</span>
-  </li>
-  <li>
-    <span class="tw-course">Computer Architecture II</span>
-    <span class="tw-role">Graduate Teaching Assistant</span>
-    <span class="tw-where">METU · EEE 446</span>
-  </li>
+  <li><span class="tw-code">EEE 248</span><span class="tw-course">Logic Design</span></li>
+  <li><span class="tw-code">EEE 347</span><span class="tw-course">Introduction to Microprocessors</span></li>
+  <li><span class="tw-code">EEE 301</span><span class="tw-course">Signals and Systems I</span></li>
+  <li><span class="tw-code">EEE 201</span><span class="tw-course">Circuit Theory I</span></li>
+  <li><span class="tw-code">EEE 446</span><span class="tw-course">Computer Architecture II</span></li>
 </ul>
