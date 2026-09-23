@@ -7,22 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the [University of Kansas](https://ku.edu/), where I serve as a Graduate Teaching Assistant. I received my M.S. degree from [Middle East Technical University (METU) / Orta Doğu Teknik Üniversitesi (ODTÜ)](https://www.metu.edu.tr/), where I worked under the supervision of [Prof. Ali Muhtaroglu](https://www.oslomet.no/en/about/employee/alimuhta/).
-
-My master's research focused on energy-efficient computing through algorithmic and architectural optimization of finite-field arithmetic. In particular, I developed low-power, area-efficient multiplier architectures based on irreducible all-one polynomials (AOPs), exploring how changes at the algorithmic and architectural levels can improve hardware efficiency.
-
-My research interests lie at the intersection of algorithms, computer architecture, and circuit design, with an emphasis on energy-efficient and high-performance computing. I am also interested in quantum algorithms and their connections to computationally intensive scientific and engineering problems.
+I am a graduate student at the [University of Kansas](https://ku.edu/), where I serve as a Graduate Teaching Assistant. I received my M.S. from [Middle East Technical University (METU) / Orta Doğu Teknik Üniversitesi (ODTÜ)](https://www.metu.edu.tr/), where I worked with [Prof. Ali Muhtaroglu](https://www.oslomet.no/en/about/employee/alimuhta/) on energy efficient multiplier architectures for finite field arithmetic.
 
 I am open to Ph.D. opportunities in these areas.
 
 Research Interests
 ======
-* Energy-efficient and high-performance computing
 * Computer architecture and VLSI design
-* Algorithm–hardware co-design
-* Hardware architectures for finite-field arithmetic
-* Quantum algorithms and quantum computing
-* Machine learning for engineering and scientific applications
+* Energy efficient and high performance computing
+* Algorithm and hardware co-design
+* Hardware architectures for finite field arithmetic
+* Quantum algorithms for scientific computing
+* Machine learning for engineering applications
 
 News
 ======
